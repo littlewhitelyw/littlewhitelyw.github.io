@@ -33,7 +33,7 @@
     
     
   <script src="/lib/pace/pace.min.js?v=1.0.2"></script>
-  <link rel="stylesheet" href="/lib/pace/pace-theme-mac-osx.min.css?v=1.0.2">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css?v=1.0.2">
 
 
 
@@ -136,7 +136,7 @@
     fastclick: false,
     lazyload: false,
     tabs: true,
-    motion: {"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     algolia: {
       applicationID: '',
       apiKey: '',
@@ -277,10 +277,25 @@
     
 
     
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br>首页</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-guestbook">
+
+    
+    
+    
       
     
 
-    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br>首页</a>
+    
+
+    <a href="/guestbook" rel="section"><i class="menu-item-icon fa fa-fw fa-clipboard"></i> <br>留言板</a>
 
   </li>
         
@@ -296,10 +311,8 @@
     
 
     
-      
-    
 
-    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br>归档<span class="badge">2</span></a>
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br>归档</a>
 
   </li>
         
@@ -315,10 +328,8 @@
     
 
     
-      
-    
 
-    <a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th"></i> <br>分类<span class="badge">1</span></a>
+    <a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th"></i> <br>分类</a>
 
   </li>
         
@@ -334,10 +345,8 @@
     
 
     
-      
-    
 
-    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>标签<span class="badge">2</span></a>
+    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>标签</a>
 
   </li>
         
@@ -352,8 +361,6 @@
       
     
 
-    
-      
     
 
     <a href="/sitemap.xml" rel="section"><i class="menu-item-icon fa fa-fw fa-sitemap"></i> <br>站点地图</a>
@@ -371,8 +378,6 @@
       
     
 
-    
-      
     
 
     <a href="/about/" rel="section"><i class="menu-item-icon fa fa-fw fa-user"></i> <br>关于</a>
@@ -456,6 +461,9 @@
       
       
     
+      
+      
+    
     
 
   
@@ -486,7 +494,7 @@
         
           <a class="post-title-link" href="/2019/02/28/刘苑2019年计划/" itemprop="url">
             
-              <span itemprop="name">刘苑的2019年心愿</span>
+              <span itemprop="name">刘苑的2019年小心愿</span>
             
           </a>
         
@@ -837,7 +845,7 @@ Yuan Liu<span class="with-love" id="animate">
     
     
   
-  <script color="0,0,255" opacity="0.5" zindex="-1" count="99" src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script color="0,0,255" opacity="0.5" zindex="-1" count="99" src="/lib/canvas-nest/canvas-nest-nomobile.min.js"></script>
 
 
 
@@ -1347,11 +1355,11 @@ Yuan Liu<span class="with-love" id="animate">
     
       pbOptions = {};
       
-        pbOptions.iconStyle = "box";
+        pbOptions.iconStyle = "default";
       
         pbOptions.boxForm = "horizontal";
       
-        pbOptions.position = "bottomRight";
+        pbOptions.position = "bottomCenter";
       
         pbOptions.networks = "Weibo,Wechat,Douban,QQZone";
       
