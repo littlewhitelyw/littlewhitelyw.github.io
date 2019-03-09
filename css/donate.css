@@ -85,7 +85,7 @@
   display: block;
 }
 #donateBox #PayPal {
-  background-image: url(/images/donate/paypal.svg);
+  background-image: url(/images/donate/like.svg);
 }
 #donateBox>#BTC {
   background-image: url(/images/donate/bitcoin.svg);
@@ -118,7 +118,7 @@
   position: absolute;
   text-align: center;
   width: 200px;
-  height: 200px;
+  height: 280px;
   left: calc(50% - 100px);
   top: calc(50% - 100px);
   background: #fff no-repeat center center;
