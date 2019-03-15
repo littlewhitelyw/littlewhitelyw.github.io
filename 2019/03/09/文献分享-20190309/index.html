@@ -403,7 +403,7 @@
 <p>​    </p>
 <h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Here we summarize recent progress in machine learning for the chemical sciences. We outline machine-learning techniques that are suitable for addressing research questions in this domain, as well as future directions for the field. We envisage a future in which the design, synthesis, characterization and application of molecules and materials is accelerated by artificial intelligence.</p>
 <blockquote>
-<p>这是一篇发表在nature上的review，我这次分享这篇文献主要是因为最后一句话让我产生了共鸣，你可以直接跳到最后看。</p>
+<p>这是一篇发表在nature上的review，我这次分享这篇文献主要是因为最后一句话让我产生了共鸣，为了节约您宝贵的时间，建议直接跳到最后看╰(￣▽￣)╭ </p>
 </blockquote>
 <p><center><img src="https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41586-018-0337-2/MediaObjects/41586_2018_337_Fig1_HTML.png" alt="2"></center><br></p>
 <h2 id="主要内容"><a href="#主要内容" class="headerlink" title="主要内容"></a>主要内容</h2><ol>
@@ -439,8 +439,8 @@
 <blockquote>
 <p>我主要针对第三部分内容谈一下我的想法。</p>
 </blockquote>
-<h3 id="用小数据集获取更多的知识"><a href="#用小数据集获取更多的知识" class="headerlink" title="用小数据集获取更多的知识"></a>用小数据集获取更多的知识</h3><p>机器学习方法通常需要大量数据才能使学习有效。这在诸如图像识别等领域中都不是问题，因为有数百万个输入数据集可用，但在化学或材料科学中，以及我们的力学领域中，我们通常只能得到<strong>数百或数千个高质量</strong>数据点。<br>除了扩大数据集外，我们也应该思考如何使用少量的数据进行机器学习。新的发展，如<a href="https://www.nature.com/articles/s41586-018-0337-2#ref-CR82" target="_blank" rel="noopener">神经图灵机</a>和<a href="https://www.nature.com/articles/s41586-018-0337-2#ref-CR83" target="_blank" rel="noopener">模仿学习</a>正在实现这一过程。最近报道了一种<a href="https://www.nature.com/articles/s41586-018-0337-2#ref-CR84" target="_blank" rel="noopener">贝叶斯框架</a>，通过数据有限的一次性学习问题实现人类水平的表现，这对分子和材料科学产生影响，其中数据稀少且通常昂贵且难以获得。</p>
-<h3 id="建立新规律"><a href="#建立新规律" class="headerlink" title="建立新规律"></a>建立新规律</h3><p>自动发现科学规律和原则，<a href="https://www.nature.com/articles/s41586-018-0337-2#ref-CR95" target="_blank" rel="noopener">文献1</a>，<a href="https://www.nature.com/articles/s41586-018-0337-2#ref-CR96" target="_blank" rel="noopener">文献2</a>，正在通过机器学习寻找新的物理规律，或者说从数据上提取现有的物理规律。虽然从机器学习开发的模型是预测性的，但它们可能（甚至通常）是不可解释的。有几个原因</p>
+<h3 id="用小数据集获取更多的知识"><a href="#用小数据集获取更多的知识" class="headerlink" title="用小数据集获取更多的知识"></a>用小数据集获取更多的知识</h3><p>机器学习方法通常需要大量数据才能使学习有效。这在诸如图像识别等领域中都不是问题，因为有数百万个输入数据集可用，但在化学或材料科学中，以及我们的力学领域中，我们通常只能得到<strong>数百或数千个高质量</strong>数据点。<br>除了扩大数据集外，我们也应该思考如何使用少量的数据进行机器学习。新的发展，如<a href="https://arxiv.org/abs/1410.5401" target="_blank" rel="noopener">神经图灵机</a>和<a href="https://arxiv.org/abs/1703.07326" target="_blank" rel="noopener">模仿学习</a>正在实现这一过程。最近报道了一种<a href="http://science.sciencemag.org/content/350/6266/1332" target="_blank" rel="noopener">贝叶斯框架</a>，通过数据有限的一次性学习问题实现人类水平的表现，这对分子和材料科学产生影响，其中数据稀少且通常昂贵且难以获得。</p>
+<h3 id="建立新规律"><a href="#建立新规律" class="headerlink" title="建立新规律"></a>建立新规律</h3><p>自动发现科学规律和原则，<a href="https://doi.org/10.1126%2Fscience.1165893" target="_blank" rel="noopener">文献1</a>，<a href="https://doi.org/10.1126%2Fsciadv.1602614" target="_blank" rel="noopener">文献2</a>，正在通过机器学习寻找新的物理规律，或者说从数据上提取现有的物理规律。虽然从机器学习开发的模型是预测性的，但它们可能（甚至通常）是不可解释的。有几个原因</p>
 <ol>
 <li>首先，机器学习模型代表知识的方式很少直接映射到科学家熟悉的形式。<ul>
 <li>给定合适的数据，人工神经网络可能会发现理想的气体定律 $$ pV = nRT$$ ,但是，通常没有办法通过统计学习将网络之间的连接权重转换为公式，即使是非常简单的公式。</li>
@@ -448,9 +448,8 @@
 </li>
 <li>第二个原因是更微妙的：作为一个新的物理规律，可能是目前的科学家们都尚未拥有的知识，如果它被机器学习系统发现，即使是知识渊博的科学家也难以理解。</li>
 </ol>
-<p><center># To AI</center><br></p>
-<blockquote>
-<p>There may be scientific laws that are so complex that,  to be discovered by a machine-learning system, they would be too challenging for even a knowledgeable scientist to understand.</p>
+<h1 id="To-AI"><a href="#To-AI" class="headerlink" title="To AI"></a>To AI</h1><blockquote>
+<p><strong>There may be scientific laws that are so complex that,  to be discovered by a machine-learning system, they would be too challenging for even a knowledgeable scientist to understand.</strong></p>
 </blockquote>
 
         </div>
@@ -527,7 +526,7 @@
           </div>
         </div>
         <hr>
-        <p><i class="iconfont icon-write"></i>Barcelona</p>
+        <p><i class="iconfont icon-write"></i>una persona que ama el futbol</p>
       </section>
     </main><!-- #main -->
   </div><!-- #primary -->
