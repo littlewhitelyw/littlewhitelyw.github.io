@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.aily.top/"/>
-  <updated>2019-03-15T02:52:56.989Z</updated>
+  <updated>2019-03-19T08:47:05.657Z</updated>
   <id>http://www.aily.top/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Presentation Skills</title>
+    <link href="http://www.aily.top/2019/03/19/20190319-presentation-skills/"/>
+    <id>http://www.aily.top/2019/03/19/20190319-presentation-skills/</id>
+    <published>2019-03-19T08:00:58.000Z</published>
+    <updated>2019-03-19T08:47:05.657Z</updated>
+    
+    <summary type="html">
+    
+      谁能想到这只是英语作业呢w(ﾟДﾟ)w
+    
+    </summary>
+    
+      <category term="总结" scheme="http://www.aily.top/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="Presentation" scheme="http://www.aily.top/tags/Presentation/"/>
+    
+      <category term="Skills" scheme="http://www.aily.top/tags/Skills/"/>
+    
+  </entry>
+  
+  <entry>
     <title>文献分享-20190309</title>
     <link href="http://www.aily.top/2019/03/09/%E6%96%87%E7%8C%AE%E5%88%86%E4%BA%AB-20190309/"/>
     <id>http://www.aily.top/2019/03/09/文献分享-20190309/</id>
     <published>2019-03-09T12:15:05.000Z</published>
-    <updated>2019-03-15T02:52:56.989Z</updated>
+    <updated>2019-03-19T09:00:07.571Z</updated>
     
     <summary type="html">
     
@@ -29,10 +51,8 @@
     
     </summary>
     
-      <category term="技术" scheme="http://www.aily.top/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="总结" scheme="http://www.aily.top/categories/%E6%80%BB%E7%BB%93/"/>
     
-    
-      <category term="悦读" scheme="http://www.aily.top/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -61,7 +81,7 @@
     <link href="http://www.aily.top/2019/03/05/2019%E5%B9%B42%E6%9C%8828%E6%97%A5%E2%80%94%E7%BB%84%E4%BC%9A%E6%80%BB%E7%BB%93/"/>
     <id>http://www.aily.top/2019/03/05/2019年2月28日—组会总结/</id>
     <published>2019-03-05T09:34:23.000Z</published>
-    <updated>2019-03-08T13:26:50.057Z</updated>
+    <updated>2019-03-19T09:16:39.607Z</updated>
     
     <summary type="html">
     
@@ -69,14 +89,8 @@
     
     </summary>
     
-      <category term="技术" scheme="http://www.aily.top/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="总结" scheme="http://www.aily.top/categories/%E6%80%BB%E7%BB%93/"/>
     
-    
-      <category term="组会" scheme="http://www.aily.top/tags/%E7%BB%84%E4%BC%9A/"/>
-    
-      <category term="总结" scheme="http://www.aily.top/tags/%E6%80%BB%E7%BB%93/"/>
-    
-      <category term="学习" scheme="http://www.aily.top/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -85,7 +99,7 @@
     <link href="http://www.aily.top/2019/03/01/LiuYuan2019%E4%B9%A6%E5%8D%95/"/>
     <id>http://www.aily.top/2019/03/01/LiuYuan2019书单/</id>
     <published>2019-03-01T11:33:31.000Z</published>
-    <updated>2019-03-08T13:26:53.912Z</updated>
+    <updated>2019-03-19T08:59:43.808Z</updated>
     
     <summary type="html">
     
@@ -93,10 +107,8 @@
     
     </summary>
     
-      <category term="生活" scheme="http://www.aily.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
-    
-      <category term="学习" scheme="http://www.aily.top/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="书单" scheme="http://www.aily.top/tags/%E4%B9%A6%E5%8D%95/"/>
     
   </entry>
   
