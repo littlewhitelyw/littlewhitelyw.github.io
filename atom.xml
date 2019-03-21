@@ -43,7 +43,7 @@
     <link href="http://www.aily.top/2019/03/09/%E6%96%87%E7%8C%AE%E5%88%86%E4%BA%AB-20190309/"/>
     <id>http://www.aily.top/2019/03/09/文献分享-20190309/</id>
     <published>2019-03-09T12:15:05.000Z</published>
-    <updated>2019-03-19T09:00:07.571Z</updated>
+    <updated>2019-03-21T03:09:31.157Z</updated>
     
     <summary type="html">
     
@@ -54,6 +54,8 @@
       <category term="总结" scheme="http://www.aily.top/categories/%E6%80%BB%E7%BB%93/"/>
     
     
+      <category term="文献分享" scheme="http://www.aily.top/tags/%E6%96%87%E7%8C%AE%E5%88%86%E4%BA%AB/"/>
+    
   </entry>
   
   <entry>
@@ -61,7 +63,7 @@
     <link href="http://www.aily.top/2019/03/05/Vlog-%E7%AC%AC%E4%B8%80%E6%9C%9F/"/>
     <id>http://www.aily.top/2019/03/05/Vlog-第一期/</id>
     <published>2019-03-05T11:09:20.000Z</published>
-    <updated>2019-03-08T12:49:14.806Z</updated>
+    <updated>2019-03-21T03:09:08.037Z</updated>
     
     <summary type="html">
     
@@ -72,6 +74,8 @@
       <category term="生活" scheme="http://www.aily.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
+      <category term="liuyuan" scheme="http://www.aily.top/tags/liuyuan/"/>
+    
       <category term="Vlog" scheme="http://www.aily.top/tags/Vlog/"/>
     
   </entry>
@@ -81,7 +85,7 @@
     <link href="http://www.aily.top/2019/03/05/2019%E5%B9%B42%E6%9C%8828%E6%97%A5%E2%80%94%E7%BB%84%E4%BC%9A%E6%80%BB%E7%BB%93/"/>
     <id>http://www.aily.top/2019/03/05/2019年2月28日—组会总结/</id>
     <published>2019-03-05T09:34:23.000Z</published>
-    <updated>2019-03-19T09:16:39.607Z</updated>
+    <updated>2019-03-21T03:07:47.415Z</updated>
     
     <summary type="html">
     
@@ -92,6 +96,8 @@
       <category term="总结" scheme="http://www.aily.top/categories/%E6%80%BB%E7%BB%93/"/>
     
     
+      <category term="组会" scheme="http://www.aily.top/tags/%E7%BB%84%E4%BC%9A/"/>
+    
   </entry>
   
   <entry>
@@ -99,7 +105,7 @@
     <link href="http://www.aily.top/2019/03/01/LiuYuan2019%E4%B9%A6%E5%8D%95/"/>
     <id>http://www.aily.top/2019/03/01/LiuYuan2019书单/</id>
     <published>2019-03-01T11:33:31.000Z</published>
-    <updated>2019-03-19T08:59:43.808Z</updated>
+    <updated>2019-03-21T03:08:33.727Z</updated>
     
     <summary type="html">
     
@@ -107,6 +113,10 @@
     
     </summary>
     
+      <category term="生活" scheme="http://www.aily.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="liuyuan" scheme="http://www.aily.top/tags/liuyuan/"/>
     
       <category term="书单" scheme="http://www.aily.top/tags/%E4%B9%A6%E5%8D%95/"/>
     
@@ -117,7 +127,7 @@
     <link href="http://www.aily.top/2019/02/28/LiuYuan2019%E5%B9%B4%E8%AE%A1%E5%88%92/"/>
     <id>http://www.aily.top/2019/02/28/LiuYuan2019年计划/</id>
     <published>2019-02-28T02:58:40.000Z</published>
-    <updated>2019-03-08T12:49:50.485Z</updated>
+    <updated>2019-03-21T03:08:54.162Z</updated>
     
     <summary type="html">
     
@@ -128,7 +138,7 @@
       <category term="生活" scheme="http://www.aily.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="life" scheme="http://www.aily.top/tags/life/"/>
+      <category term="liuyuan" scheme="http://www.aily.top/tags/liuyuan/"/>
     
   </entry>
   
@@ -137,7 +147,7 @@
     <link href="http://www.aily.top/2019/02/21/%E6%B5%8B%E8%AF%95Mathjax%E6%94%AF%E6%8C%81/"/>
     <id>http://www.aily.top/2019/02/21/测试Mathjax支持/</id>
     <published>2019-02-21T09:55:11.000Z</published>
-    <updated>2019-03-08T12:51:25.237Z</updated>
+    <updated>2019-03-21T03:06:14.016Z</updated>
     
     <summary type="html">
     
