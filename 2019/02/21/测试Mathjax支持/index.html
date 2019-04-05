@@ -396,7 +396,7 @@
           ·</span>
         <span id="busuanzi_value_page_pv"></span>次阅读<span class="bull">
           ·</span>
-        <span class="post-count">26</span>字<span class="bull">
+        <span class="post-count">233</span>字<span class="bull">
           ·</span>
         <span class="post-count">1</span>分钟</p>
       </header>
@@ -410,7 +410,24 @@
         
         <div class="entry-content">
           <p>When $a \ne 0$, there are two solutions to (ax^2 + bx + c = 0) and they are<br>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
+<p>标量场$\varphi$的梯度：</p>
+<p>$${\rm grad}\varphi=\frac{\partial\varphi}{\partial x}e_1+\frac{\partial\varphi}{\partial y}e_2+\frac{\partial\varphi}{\partial z}e_3=\nabla\varphi$$</p>
+<p>Thus we can write a vector ${\bf a}\in\mathbb {R}^2$as</p>
+<p>$${\bf a}=\left(\begin{matrix}a_1\a_2\end{matrix}\right)$$</p>
+<p>对应位置元素相加即可。</p>
+<p>$$\left(\begin{matrix}<br>    a_1\a_2<br>\end{matrix}\right)+\left(\begin{matrix}<br>    b_1\b_2<br>\end{matrix}\right)=\left(\begin{matrix}<br>    a_1+b_1\a_2+b_2<br>\end{matrix}\right)$$</p>
+<p>范数以及标准化<br>欧几里得范数（Euclidean Vector Norm）<br>For a vector ${\bf v}\in\mathbb{ R}^n$,the euclidean norm of $\mathbf{v}$is defined as,<br>$$\parallel\mathbf{v}\parallel=\left(\sum_{i=1}^{n}{v_i^2}\right)^\frac{1}{2}=\sqrt{\left\langle \mathbf{v,v}\right\rangle} $$</p>
+<p>$\boxed{\vec{s}}$  \,  $\overrightarrow{suv}$</p>
+<p><code>`</code>sequence {theme=”hand”}<br>Andrew-&gt;Bob: Says Hello<br>Note right of Bob: Bob thinks\nabout it<br>Bob–&gt;Andrew: How are you?<br>Andrew-&gt;&gt;Bob: I am good thanks!</p>
+<pre><code>
+```python {cmd=true matplotlib=true}
+import matplotlib.pyplot as plt
+import numpy as np
 
+x=np.linspace(0,20,100)
+plt.plot(x, np.sin(x))
+plt.show()
+</code></pre>
         </div>
         <!-- .entry-content -->
         <div class="single-reward">
@@ -855,5 +872,5 @@ if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
     })
   });
 </script>
-</body>
+<script src="/live2dw/lib/L2Dwidget.min.js?bd2294fafea3389ee458f1d9be5a2157"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/hijiki.model.json"},"display":{"position":"right","width":200,"height":400,"hOffset":100,"vOffset":-10},"mobile":{"show":true,"scale":0.5},"react":{"opacityDefault":0.7,"opacityOnHover":0.2}});</script></body>
 </html>
