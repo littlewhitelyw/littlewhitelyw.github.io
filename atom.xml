@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.aily.top/"/>
-  <updated>2019-05-23T03:42:00.246Z</updated>
+  <updated>2019-05-23T05:42:33.935Z</updated>
   <id>http://www.aily.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.aily.top/2019/05/23/plotly/"/>
     <id>http://www.aily.top/2019/05/23/plotly/</id>
     <published>2019-05-23T03:37:11.000Z</published>
-    <updated>2019-05-23T03:42:00.246Z</updated>
+    <updated>2019-05-23T05:42:33.935Z</updated>
     
     <summary type="html">
     
@@ -154,9 +154,9 @@
       <category term="生活" scheme="http://www.aily.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="liuyuan" scheme="http://www.aily.top/tags/liuyuan/"/>
-    
       <category term="书单" scheme="http://www.aily.top/tags/%E4%B9%A6%E5%8D%95/"/>
+    
+      <category term="liuyuan" scheme="http://www.aily.top/tags/liuyuan/"/>
     
   </entry>
   
